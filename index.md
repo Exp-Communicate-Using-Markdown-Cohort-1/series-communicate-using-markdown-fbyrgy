@@ -7,3 +7,6 @@
 ```
 print("Markdown Python Example!")
 ```
+- [X] Created task list
+- [X] Completed item
+- [ ] Incomplete item
